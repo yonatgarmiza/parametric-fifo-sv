@@ -1,4 +1,5 @@
 # Synchronous FIFO – SystemVerilog
+Clean RTL implementation with verification-driven development approach.
 
 ## Overview
 
